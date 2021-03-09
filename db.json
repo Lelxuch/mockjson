@@ -1,21 +1,58 @@
 {
   "posts": [
-    {
-      "id": 1,
-      "title": "Post 1",
-      "description": "this is description 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2",
-      "description": "this is description 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3",
-      "description": "this is description 3"
-    }
+    
   ],
+  "cars": [{
+    "id": 1,
+    "model_id": 6,
+    "image": "http://dummyimage.com/228x222.bmp/dddddd/000000",
+    "price": 19000
+  }, {
+    "id": 2,
+    "model_id": 2,
+    "image": "http://dummyimage.com/244x102.png/cc0000/ffffff",
+    "price": 8000
+  }, {
+    "id": 3,
+    "model_id": 3,
+    "image": "http://dummyimage.com/145x201.jpg/dddddd/000000",
+    "price": 27000
+  }, {
+    "id": 4,
+    "model_id": 9,
+    "image": "http://dummyimage.com/211x142.png/dddddd/000000",
+    "price": 16000
+  }, {
+    "id": 5,
+    "model_id": 1,
+    "image": "http://dummyimage.com/109x182.jpg/cc0000/ffffff",
+    "price": 25000
+  }, {
+    "id": 6,
+    "model_id": 8,
+    "image": "http://dummyimage.com/217x241.bmp/ff4444/ffffff",
+    "price": 1000
+  }, {
+    "id": 7,
+    "model_id": 5,
+    "image": "http://dummyimage.com/126x118.jpg/cc0000/ffffff",
+    "price": 1000
+  }, {
+    "id": 8,
+    "model_id": 5,
+    "image": "http://dummyimage.com/101x215.png/dddddd/000000",
+    "price": 6000
+  }, {
+    "id": 9,
+    "model_id": 10,
+    "image": "http://dummyimage.com/145x214.png/cc0000/ffffff",
+    "price": 2000
+  }, {
+    "id": 10,
+    "model_id": 5,
+    "image": "http://dummyimage.com/193x190.png/ff4444/ffffff",
+    "price": 6000
+  }],
   "comments": [
     {
       "id": 1,
