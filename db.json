@@ -1,7 +1,56 @@
 {
-  "users": [
-    
-  ],
+  "users": [{
+    "id": 1,
+    "full_name": "Chloris Bunson",
+    "email": "cbunson0@51.la",
+    "password": "aBE6LWuW8O"
+  }, {
+    "id": 2,
+    "full_name": "Osbourn Sweetzer",
+    "email": "osweetzer1@bloglines.com",
+    "password": "QziKOMkVYL1"
+  }, {
+    "id": 3,
+    "full_name": "Elvin Jowitt",
+    "email": "ejowitt2@quantcast.com",
+    "password": "gk2Bf6r"
+  }, {
+    "id": 4,
+    "full_name": "Woodrow Raddan",
+    "email": "wraddan3@wikia.com",
+    "password": "ZNzjo5Zf"
+  }, {
+    "id": 5,
+    "full_name": "Aldin Campes",
+    "email": "acampes4@gnu.org",
+    "password": "FrrCnRG45Bs"
+  }, {
+    "id": 6,
+    "full_name": "Lorrin Leivesley",
+    "email": "lleivesley5@alibaba.com",
+    "password": "nfHgGc"
+  }, {
+    "id": 7,
+    "full_name": "Hadlee Nern",
+    "email": "hnern6@dagondesign.com",
+    "password": "1rnIuHi"
+  }, {
+    "id": 8,
+    "full_name": "Layney Scrivner",
+    "email": "lscrivner7@symantec.com",
+    "password": "wtxmEe2nZ"
+  }, {
+    "id": 9,
+    "full_name": "Sancho Elmore",
+    "email": "selmore8@disqus.com",
+    "password": "qo31CGQPk86"
+  }, {
+    "id": 10,
+    "full_name": "Sosanna Fynan",
+    "email": "sfynan9@admin.ch",
+    "password": "2EtM3x"
+  }],
+  
   "cars": [{
     "id": 1,
     "model_id": 6,
