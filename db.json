@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "users": [
     
   ],
   "cars": [{
@@ -53,18 +53,59 @@
     "image": "http://dummyimage.com/193x190.png/ff4444/ffffff",
     "price": 6000
   }],
-  "comments": [
-    {
-      "id": 1,
-      "body": "comment 1",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "comment 2",
-      "postId": 1
-    }
-  ],
+  
+  "review": [{
+    "id": 1,
+    "body": "cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus",
+    "car_id": 8,
+    "user_id": 10
+  }, {
+    "id": 2,
+    "body": "pretium nisl ut volutpat sapien arcu sed augue aliquam erat",
+    "car_id": 1,
+    "user_id": 1
+  }, {
+    "id": 3,
+    "body": "ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus",
+    "car_id": 10,
+    "user_id": 5
+  }, {
+    "id": 4,
+    "body": "cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam",
+    "car_id": 5,
+    "user_id": 6
+  }, {
+    "id": 5,
+    "body": "habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo",
+    "car_id": 3,
+    "user_id": 2
+  }, {
+    "id": 6,
+    "body": "vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend",
+    "car_id": 6,
+    "user_id": 7
+  }, {
+    "id": 7,
+    "body": "commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non",
+    "car_id": 5,
+    "user_id": 3
+  }, {
+    "id": 8,
+    "body": "nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros",
+    "car_id": 1,
+    "user_id": 4
+  }, {
+    "id": 9,
+    "body": "felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices",
+    "car_id": 10,
+    "user_id": 10
+  }, {
+    "id": 10,
+    "body": "nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim",
+    "car_id": 3,
+    "user_id": 1
+  }],
+  
   "profile": {
     "name": "Profile 1"
   }
