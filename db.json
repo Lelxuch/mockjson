@@ -207,3 +207,35 @@
     "birth_date": "7/20/1957"
   }]
 }
+
+"genres": [{
+  "id": 1,
+  "genre": "Comedy"
+}, {
+  "id": 2,
+  "genre": "Drama"
+}, {
+  "id": 3,
+  "genre": "Action"
+}, {
+  "id": 4,
+  "genre": "Crime"
+}, {
+  "id": 5,
+  "genre": "Drama"
+}, {
+  "id": 6,
+  "genre": "Comedy"
+}, {
+  "id": 7,
+  "genre": "Action|"
+}, {
+  "id": 8,
+  "genre": "Romance"
+}, {
+  "id": 9,
+  "genre": "Crime"
+}, {
+  "id": 10,
+  "genre": "War"
+}]
