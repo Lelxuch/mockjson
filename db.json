@@ -53,64 +53,504 @@
   
   "movies": [{
     "id": 1,
-    "title": "My Letter to George (Mesmerized)",
-    "director_id": 8,
-    "genres": 1,
-    "year": 2006
+    "title": "My Afternoons with Margueritte (La tête en friche)",
+    "director_id": 7,
+    "year": 2003
   }, {
     "id": 2,
-    "title": "Life of Reilly, The",
-    "director_id": 1,
-    "genres": 2,
-    "year": 2010
+    "title": "Cats",
+    "director_id": 2,
+    "year": 2011
   }, {
     "id": 3,
-    "title": "Assault, The (L'assaut)",
-    "director_id": 4,
-    "genres": 1,
-    "year": 2006
-  }, {
-    "id": 4,
-    "title": "Cornered",
-    "director_id": 10,
-    "genres": 8,
-    "year": 2001
-  }, {
-    "id": 5,
-    "title": "Knockin' on Heaven's Door",
-    "director_id": 5,
-    "genres": 8,
+    "title": "Man's Best Friend",
+    "director_id": 1,
     "year": 1994
   }, {
-    "id": 6,
-    "title": "Very British Gangster, A",
+    "id": 4,
+    "title": "Tsunami: Caught on Camera",
+    "director_id": 2,
+    "year": 2009
+  }, {
+    "id": 5,
+    "title": "Burrowers, The",
     "director_id": 4,
-    "genres": 5,
-    "year": 1992
+    "year": 1988
+  }, {
+    "id": 6,
+    "title": "Secrets, The (Sodot, Ha-)",
+    "director_id": 9,
+    "year": 2005
   }, {
     "id": 7,
-    "title": "Ricky",
-    "director_id": 5,
-    "genres": 3,
-    "year": 1993
+    "title": "No Direction Home: Bob Dylan",
+    "director_id": 1,
+    "year": 2012
   }, {
     "id": 8,
-    "title": "Boyfriends and Girlfriends (a.k.a. My Girlfriend's Boyfriend) (L'ami de mon amie)",
-    "director_id": 10,
-    "genres": 9,
+    "title": "Enduring Love",
+    "director_id": 1,
     "year": 2003
   }, {
     "id": 9,
-    "title": "Saturday Night and Sunday Morning",
-    "director_id": 7,
-    "genres": 10,
+    "title": "Confess",
+    "director_id": 2,
     "year": 2010
   }, {
     "id": 10,
-    "title": "Strike Up the Band",
+    "title": "Tremors 3: Back to Perfection",
     "director_id": 3,
-    "genres": 6,
+    "year": 1998
+  }, {
+    "id": 11,
+    "title": "Watership Down",
+    "director_id": 3,
+    "year": 2000
+  }, {
+    "id": 12,
+    "title": "Groundhog Day",
+    "director_id": 9,
+    "year": 2003
+  }, {
+    "id": 13,
+    "title": "Werner - Volles Rooäää",
+    "director_id": 6,
+    "year": 2011
+  }, {
+    "id": 14,
+    "title": "Fear City",
+    "director_id": 4,
+    "year": 1994
+  }, {
+    "id": 15,
+    "title": "Crowd, The",
+    "director_id": 6,
+    "year": 2004
+  }, {
+    "id": 16,
+    "title": "Zuzu Angel",
+    "director_id": 2,
+    "year": 1997
+  }, {
+    "id": 17,
+    "title": "Angry Red Planet, The",
+    "director_id": 9,
+    "year": 2006
+  }, {
+    "id": 18,
+    "title": "Final Destination 5",
+    "director_id": 7,
+    "year": 2011
+  }, {
+    "id": 19,
+    "title": "Streets of Fire",
+    "director_id": 4,
+    "year": 2010
+  }, {
+    "id": 20,
+    "title": "Napoleon",
+    "director_id": 4,
+    "year": 1999
+  }, {
+    "id": 21,
+    "title": "Dead Silence",
+    "director_id": 5,
+    "year": 1990
+  }, {
+    "id": 22,
+    "title": "Boogie (Boogie, el aceitoso)",
+    "director_id": 4,
+    "year": 2004
+  }, {
+    "id": 23,
+    "title": "Waiting for Guffman",
+    "director_id": 5,
     "year": 2009
+  }, {
+    "id": 24,
+    "title": "Suspect, The (Yong-eui-ja)",
+    "director_id": 9,
+    "year": 1992
+  }, {
+    "id": 25,
+    "title": "After the Life",
+    "director_id": 5,
+    "year": 1995
+  }, {
+    "id": 26,
+    "title": "Titicut Follies",
+    "director_id": 5,
+    "year": 1993
+  }, {
+    "id": 27,
+    "title": "Keep Your Distance",
+    "director_id": 3,
+    "year": 2009
+  }, {
+    "id": 28,
+    "title": "Dark Island",
+    "director_id": 6,
+    "year": 2010
+  }, {
+    "id": 29,
+    "title": "Exit Smiling",
+    "director_id": 1,
+    "year": 1993
+  }, {
+    "id": 30,
+    "title": "Show People",
+    "director_id": 7,
+    "year": 1994
+  }, {
+    "id": 31,
+    "title": "7 Khoon Maaf",
+    "director_id": 2,
+    "year": 2005
+  }, {
+    "id": 32,
+    "title": "Jönssonligan - Den perfekta stöten",
+    "director_id": 10,
+    "year": 1986
+  }, {
+    "id": 33,
+    "title": "Slave Girls (Prehistoric Women)",
+    "director_id": 10,
+    "year": 2002
+  }, {
+    "id": 34,
+    "title": "External Affairs",
+    "director_id": 2,
+    "year": 2005
+  }, {
+    "id": 35,
+    "title": "Mr. Magorium's Wonder Emporium",
+    "director_id": 9,
+    "year": 1990
+  }, {
+    "id": 36,
+    "title": "Avengers, The",
+    "director_id": 5,
+    "year": 2007
+  }, {
+    "id": 37,
+    "title": "Manderlay",
+    "director_id": 8,
+    "year": 2011
+  }, {
+    "id": 38,
+    "title": "Olsen Gang on the Track, The (Olsen-banden på sporet)",
+    "director_id": 8,
+    "year": 1992
+  }, {
+    "id": 39,
+    "title": "Killer's Kiss",
+    "director_id": 8,
+    "year": 1997
+  }, {
+    "id": 40,
+    "title": "Flipped",
+    "director_id": 1,
+    "year": 2000
+  }, {
+    "id": 41,
+    "title": "Torments (El) (This Strange Passion)",
+    "director_id": 2,
+    "year": 2007
+  }, {
+    "id": 42,
+    "title": "Beautiful Losers",
+    "director_id": 10,
+    "year": 1995
+  }, {
+    "id": 43,
+    "title": "Cemetery Junction",
+    "director_id": 2,
+    "year": 2000
+  }, {
+    "id": 44,
+    "title": "Bastards, The (Los bastardos)",
+    "director_id": 7,
+    "year": 1994
+  }, {
+    "id": 45,
+    "title": "Misérables, Les",
+    "director_id": 2,
+    "year": 1997
+  }, {
+    "id": 46,
+    "title": "Starting Out in the Evening",
+    "director_id": 8,
+    "year": 1996
+  }, {
+    "id": 47,
+    "title": "Ernest Goes to Camp",
+    "director_id": 5,
+    "year": 2012
+  }, {
+    "id": 48,
+    "title": "Wedding Singer, The",
+    "director_id": 9,
+    "year": 1996
+  }, {
+    "id": 49,
+    "title": "Good Morning, Miss Dove",
+    "director_id": 10,
+    "year": 2009
+  }, {
+    "id": 50,
+    "title": "Sleepy Time Gal, The",
+    "director_id": 8,
+    "year": 1999
+  }, {
+    "id": 51,
+    "title": "Insomnia",
+    "director_id": 10,
+    "year": 2007
+  }, {
+    "id": 52,
+    "title": "Back to School",
+    "director_id": 4,
+    "year": 2004
+  }, {
+    "id": 53,
+    "title": "Radioactive Dreams",
+    "director_id": 8,
+    "year": 1988
+  }, {
+    "id": 54,
+    "title": "Them (Ils)",
+    "director_id": 5,
+    "year": 2007
+  }, {
+    "id": 55,
+    "title": "Alone in the Dark",
+    "director_id": 4,
+    "year": 1988
+  }, {
+    "id": 56,
+    "title": "Red Tent, The (Krasnaya palatka)",
+    "director_id": 1,
+    "year": 1993
+  }, {
+    "id": 57,
+    "title": "Death at a Funeral",
+    "director_id": 5,
+    "year": 1991
+  }, {
+    "id": 58,
+    "title": "Everybody's Fine (Stanno tutti bene)",
+    "director_id": 4,
+    "year": 2004
+  }, {
+    "id": 59,
+    "title": "Cockfighter",
+    "director_id": 3,
+    "year": 2012
+  }, {
+    "id": 60,
+    "title": "Unbeatable (Ji zhan)",
+    "director_id": 1,
+    "year": 2010
+  }, {
+    "id": 61,
+    "title": "Morituri",
+    "director_id": 10,
+    "year": 1999
+  }, {
+    "id": 62,
+    "title": "Silent Light (Stellet licht)",
+    "director_id": 1,
+    "year": 2003
+  }, {
+    "id": 63,
+    "title": "Michael",
+    "director_id": 3,
+    "year": 2000
+  }, {
+    "id": 64,
+    "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+    "director_id": 2,
+    "year": 1992
+  }, {
+    "id": 65,
+    "title": "Journey to the Center of the Earth",
+    "director_id": 9,
+    "year": 2006
+  }, {
+    "id": 66,
+    "title": "Bad Boy Bubby",
+    "director_id": 2,
+    "year": 1971
+  }, {
+    "id": 67,
+    "title": "Juliet of the Spirits (Giulietta degli spiriti)",
+    "director_id": 1,
+    "year": 2009
+  }, {
+    "id": 68,
+    "title": "Eros",
+    "director_id": 4,
+    "year": 1994
+  }, {
+    "id": 69,
+    "title": "The Day I Saw Your Heart",
+    "director_id": 2,
+    "year": 1999
+  }, {
+    "id": 70,
+    "title": "Walk on the Wild Side",
+    "director_id": 10,
+    "year": 2008
+  }, {
+    "id": 71,
+    "title": "Window to Paris (Okno v Parizh)",
+    "director_id": 10,
+    "year": 2003
+  }, {
+    "id": 72,
+    "title": "Battleground",
+    "director_id": 7,
+    "year": 2000
+  }, {
+    "id": 73,
+    "title": "Gentlemen Don't Eat Poets (Grotesque, The)",
+    "director_id": 9,
+    "year": 2009
+  }, {
+    "id": 74,
+    "title": "Bloody Mama",
+    "director_id": 10,
+    "year": 2009
+  }, {
+    "id": 75,
+    "title": "Floundering",
+    "director_id": 5,
+    "year": 1990
+  }, {
+    "id": 76,
+    "title": "Le Donk & Scor-zay-zee",
+    "director_id": 4,
+    "year": 1990
+  }, {
+    "id": 77,
+    "title": "Beautiful Creatures",
+    "director_id": 5,
+    "year": 1992
+  }, {
+    "id": 78,
+    "title": "Double Dare",
+    "director_id": 10,
+    "year": 2006
+  }, {
+    "id": 79,
+    "title": "Shanghai",
+    "director_id": 9,
+    "year": 2004
+  }, {
+    "id": 80,
+    "title": "We Need a Vacation (Fais-moi des vacances)",
+    "director_id": 7,
+    "year": 1992
+  }, {
+    "id": 81,
+    "title": "Rigor Mortis (Geung si)",
+    "director_id": 8,
+    "year": 2006
+  }, {
+    "id": 82,
+    "title": "Night Ambush (Ill Met by Moonlight)",
+    "director_id": 3,
+    "year": 1999
+  }, {
+    "id": 83,
+    "title": "Ninja: Shadow of a Tear",
+    "director_id": 7,
+    "year": 2008
+  }, {
+    "id": 84,
+    "title": "In the Bedroom",
+    "director_id": 4,
+    "year": 1994
+  }, {
+    "id": 85,
+    "title": "Trances",
+    "director_id": 2,
+    "year": 2007
+  }, {
+    "id": 86,
+    "title": "Awakening, The",
+    "director_id": 1,
+    "year": 2003
+  }, {
+    "id": 87,
+    "title": "Kiss, The",
+    "director_id": 6,
+    "year": 1992
+  }, {
+    "id": 88,
+    "title": "Sinners and Saints",
+    "director_id": 7,
+    "year": 2004
+  }, {
+    "id": 89,
+    "title": "Hangar 18",
+    "director_id": 3,
+    "year": 2004
+  }, {
+    "id": 90,
+    "title": "Ironweed",
+    "director_id": 3,
+    "year": 1998
+  }, {
+    "id": 91,
+    "title": "Lady and the Tramp",
+    "director_id": 4,
+    "year": 1997
+  }, {
+    "id": 92,
+    "title": "Velvet Goldmine",
+    "director_id": 1,
+    "year": 1997
+  }, {
+    "id": 93,
+    "title": "One A.M.",
+    "director_id": 1,
+    "year": 2007
+  }, {
+    "id": 94,
+    "title": "Fly Away (Bis zum Horizont, dann links!)",
+    "director_id": 10,
+    "year": 1994
+  }, {
+    "id": 95,
+    "title": "Collector, The (La collectionneuse)",
+    "director_id": 4,
+    "year": 2008
+  }, {
+    "id": 96,
+    "title": "Bell Boy, The",
+    "director_id": 10,
+    "year": 2012
+  }, {
+    "id": 97,
+    "title": "Kokowääh",
+    "director_id": 10,
+    "year": 2008
+  }, {
+    "id": 98,
+    "title": "Dillinger",
+    "director_id": 1,
+    "year": 2001
+  }, {
+    "id": 99,
+    "title": "Ernest Scared Stupid",
+    "director_id": 1,
+    "year": 2011
+  }, {
+    "id": 100,
+    "title": "Mademoiselle",
+    "director_id": 6,
+    "year": 2005
   }],
   
   "reviews": [{
