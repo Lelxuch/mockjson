@@ -53,154 +53,184 @@
   
   "movies": [{
     "id": 1,
-    "title": "My Afternoons with Margueritte (La tête en friche)",
-    "director_id": 7,
-    "year": 2003
+    "title": "The Disembodied",
+    "director_id": 9,
+    "genre_id": 10,
+    "year": 2010
   }, {
     "id": 2,
-    "title": "Cats",
-    "director_id": 2,
-    "year": 2011
+    "title": "Bloody Angels (1732 Høtten: Marerittet har et postnummer)",
+    "director_id": 7,
+    "genre_id": 8,
+    "year": 2008
   }, {
     "id": 3,
-    "title": "Man's Best Friend",
-    "director_id": 1,
-    "year": 1994
+    "title": "Robin and the 7 Hoods",
+    "director_id": 2,
+    "genre_id": 8,
+    "year": 2011
   }, {
     "id": 4,
-    "title": "Tsunami: Caught on Camera",
-    "director_id": 2,
-    "year": 2009
+    "title": "Maltese Falcon, The (a.k.a. Dangerous Female)",
+    "director_id": 6,
+    "genre_id": 7,
+    "year": 2010
   }, {
     "id": 5,
-    "title": "Burrowers, The",
-    "director_id": 4,
-    "year": 1988
+    "title": "Antisocial",
+    "director_id": 9,
+    "genre_id": 3,
+    "year": 2002
   }, {
     "id": 6,
-    "title": "Secrets, The (Sodot, Ha-)",
-    "director_id": 9,
-    "year": 2005
-  }, {
-    "id": 7,
-    "title": "No Direction Home: Bob Dylan",
-    "director_id": 1,
-    "year": 2012
-  }, {
-    "id": 8,
-    "title": "Enduring Love",
-    "director_id": 1,
-    "year": 2003
-  }, {
-    "id": 9,
-    "title": "Confess",
-    "director_id": 2,
-    "year": 2010
-  }, {
-    "id": 10,
-    "title": "Tremors 3: Back to Perfection",
-    "director_id": 3,
-    "year": 1998
-  }, {
-    "id": 11,
-    "title": "Watership Down",
-    "director_id": 3,
-    "year": 2000
-  }, {
-    "id": 12,
-    "title": "Groundhog Day",
-    "director_id": 9,
-    "year": 2003
-  }, {
-    "id": 13,
-    "title": "Werner - Volles Rooäää",
-    "director_id": 6,
-    "year": 2011
-  }, {
-    "id": 14,
-    "title": "Fear City",
-    "director_id": 4,
-    "year": 1994
-  }, {
-    "id": 15,
-    "title": "Crowd, The",
-    "director_id": 6,
-    "year": 2004
-  }, {
-    "id": 16,
-    "title": "Zuzu Angel",
-    "director_id": 2,
-    "year": 1997
-  }, {
-    "id": 17,
-    "title": "Angry Red Planet, The",
-    "director_id": 9,
-    "year": 2006
-  }, {
-    "id": 18,
-    "title": "Final Destination 5",
-    "director_id": 7,
-    "year": 2011
-  }, {
-    "id": 19,
-    "title": "Streets of Fire",
-    "director_id": 4,
-    "year": 2010
-  }, {
-    "id": 20,
-    "title": "Napoleon",
-    "director_id": 4,
-    "year": 1999
-  }, {
-    "id": 21,
-    "title": "Dead Silence",
+    "title": "Meet Me in St. Louis",
     "director_id": 5,
-    "year": 1990
-  }, {
-    "id": 22,
-    "title": "Boogie (Boogie, el aceitoso)",
-    "director_id": 4,
-    "year": 2004
-  }, {
-    "id": 23,
-    "title": "Waiting for Guffman",
-    "director_id": 5,
-    "year": 2009
-  }, {
-    "id": 24,
-    "title": "Suspect, The (Yong-eui-ja)",
-    "director_id": 9,
+    "genre_id": 9,
     "year": 1992
   }, {
-    "id": 25,
-    "title": "After the Life",
+    "id": 7,
+    "title": "No More School",
+    "director_id": 2,
+    "genre_id": 3,
+    "year": 1993
+  }, {
+    "id": 8,
+    "title": "No Regrets for Our Youth (Waga seishun ni kuinashi)",
+    "director_id": 7,
+    "genre_id": 10,
+    "year": 2013
+  }, {
+    "id": 9,
+    "title": "Big Circus, The",
+    "director_id": 6,
+    "genre_id": 1,
+    "year": 2003
+  }, {
+    "id": 10,
+    "title": "Blue Velvet",
+    "director_id": 3,
+    "genre_id": 9,
+    "year": 2003
+  }, {
+    "id": 11,
+    "title": "Jewel of the Nile, The",
+    "director_id": 1,
+    "genre_id": 6,
+    "year": 2012
+  }, {
+    "id": 12,
+    "title": "What Lies Beneath",
+    "director_id": 4,
+    "genre_id": 1,
+    "year": 2007
+  }, {
+    "id": 13,
+    "title": "Madison Avenue",
+    "director_id": 10,
+    "genre_id": 1,
+    "year": 2005
+  }, {
+    "id": 14,
+    "title": "Fighting Spirit, The",
     "director_id": 5,
+    "genre_id": 1,
+    "year": 2003
+  }, {
+    "id": 15,
+    "title": "Something Borrowed",
+    "director_id": 1,
+    "genre_id": 5,
+    "year": 2011
+  }, {
+    "id": 16,
+    "title": "Dante's Inferno",
+    "director_id": 1,
+    "genre_id": 10,
+    "year": 2012
+  }, {
+    "id": 17,
+    "title": "Beat That My Heart Skipped, The (battre mon coeur s'est arrêté, De)",
+    "director_id": 5,
+    "genre_id": 10,
+    "year": 1993
+  }, {
+    "id": 18,
+    "title": "Champ, The",
+    "director_id": 10,
+    "genre_id": 9,
+    "year": 2003
+  }, {
+    "id": 19,
+    "title": "Chillerama",
+    "director_id": 3,
+    "genre_id": 2,
+    "year": 2000
+  }, {
+    "id": 20,
+    "title": "Django Unchained",
+    "director_id": 8,
+    "genre_id": 6,
     "year": 1995
   }, {
-    "id": 26,
-    "title": "Titicut Follies",
-    "director_id": 5,
-    "year": 1993
-  }, {
-    "id": 27,
-    "title": "Keep Your Distance",
-    "director_id": 3,
-    "year": 2009
-  }, {
-    "id": 28,
-    "title": "Dark Island",
+    "id": 21,
+    "title": "Stateside",
     "director_id": 6,
+    "genre_id": 3,
+    "year": 2002
+  }, {
+    "id": 22,
+    "title": "Balloonatic, The",
+    "director_id": 2,
+    "genre_id": 8,
+    "year": 1985
+  }, {
+    "id": 23,
+    "title": "Fugly!",
+    "director_id": 10,
+    "genre_id": 9,
     "year": 2010
   }, {
+    "id": 24,
+    "title": "New Age, The",
+    "director_id": 6,
+    "genre_id": 7,
+    "year": 1999
+  }, {
+    "id": 25,
+    "title": "Pride of St. Louis, The",
+    "director_id": 4,
+    "genre_id": 3,
+    "year": 1987
+  }, {
+    "id": 26,
+    "title": "In My Country (a.k.a. Country of My Skull)",
+    "director_id": 5,
+    "genre_id": 8,
+    "year": 2002
+  }, {
+    "id": 27,
+    "title": "Hour of the Furnaces, The (Hora de los hornos, La)",
+    "director_id": 4,
+    "genre_id": 10,
+    "year": 1965
+  }, {
+    "id": 28,
+    "title": "Bones Brigade: An Autobiography",
+    "director_id": 8,
+    "genre_id": 5,
+    "year": 2009
+  }, {
     "id": 29,
-    "title": "Exit Smiling",
-    "director_id": 1,
-    "year": 1993
+    "title": "Jack Ryan: Shadow Recruit",
+    "director_id": 6,
+    "genre_id": 2,
+    "year": 2002
   }, {
     "id": 30,
-    "title": "Show People",
-    "director_id": 7,
-    "year": 1994
+    "title": "(Absolutions) Pipilotti's Mistakes ((Entlastungen) Pipilottis Fehler)",
+    "director_id": 4,
+    "genre_id": 10,
+    "year": 1990
   }],
   
   "reviews": [{
