@@ -165,6 +165,48 @@
     "user_id": 1
   }],
   
+  "directors": [{
+    "id": 1,
+    "full_name": "Lynn Reddy",
+    "birth_date": "11/19/1992"
+  }, {
+    "id": 2,
+    "full_name": "Boyd Corbin",
+    "birth_date": "4/27/1969"
+  }, {
+    "id": 3,
+    "full_name": "Florella Biddlestone",
+    "birth_date": "1/13/1978"
+  }, {
+    "id": 4,
+    "full_name": "Floyd Daltrey",
+    "birth_date": "3/3/1982"
+  }, {
+    "id": 5,
+    "full_name": "Javier Smorthwaite",
+    "birth_date": "8/11/1981"
+  }, {
+    "id": 6,
+    "full_name": "Herbert Velte",
+    "birth_date": "12/5/1984"
+  }, {
+    "id": 7,
+    "full_name": "Gerda Fahy",
+    "birth_date": "9/6/1992"
+  }, {
+    "id": 8,
+    "full_name": "Timi Joddins",
+    "birth_date": "7/21/1952"
+  }, {
+    "id": 9,
+    "full_name": "Gabbie Ruller",
+    "birth_date": "11/24/1966"
+  }, {
+    "id": 10,
+    "full_name": "Artur Hemphrey",
+    "birth_date": "7/20/1957"
+  }],
+  
   "news": [{
     "id": 1,
     "title": "vulputate ut ultrices vel",
