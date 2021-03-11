@@ -55,61 +55,61 @@
     "id": 1,
     "title": "My Letter to George (Mesmerized)",
     "director_id": 8,
-    "genres": "Drama",
+    "genres": 1,
     "year": 2006
   }, {
     "id": 2,
     "title": "Life of Reilly, The",
     "director_id": 1,
-    "genres": "Comedy",
+    "genres": 2,
     "year": 2010
   }, {
     "id": 3,
     "title": "Assault, The (L'assaut)",
     "director_id": 4,
-    "genres": "Action|Thriller",
+    "genres": 1,
     "year": 2006
   }, {
     "id": 4,
     "title": "Cornered",
     "director_id": 10,
-    "genres": "Film-Noir|Thriller",
+    "genres": 8,
     "year": 2001
   }, {
     "id": 5,
     "title": "Knockin' on Heaven's Door",
     "director_id": 5,
-    "genres": "Action|Comedy|Crime|Drama",
+    "genres": 8,
     "year": 1994
   }, {
     "id": 6,
     "title": "Very British Gangster, A",
     "director_id": 4,
-    "genres": "Crime|Documentary",
+    "genres": 5,
     "year": 1992
   }, {
     "id": 7,
     "title": "Ricky",
     "director_id": 5,
-    "genres": "Comedy|Drama|Fantasy",
+    "genres": 3,
     "year": 1993
   }, {
     "id": 8,
     "title": "Boyfriends and Girlfriends (a.k.a. My Girlfriend's Boyfriend) (L'ami de mon amie)",
     "director_id": 10,
-    "genres": "Comedy",
+    "genres": 9,
     "year": 2003
   }, {
     "id": 9,
     "title": "Saturday Night and Sunday Morning",
     "director_id": 7,
-    "genres": "Drama",
+    "genres": 10,
     "year": 2010
   }, {
     "id": 10,
     "title": "Strike Up the Band",
     "director_id": 3,
-    "genres": "Comedy|Musical|Romance",
+    "genres": 6,
     "year": 2009
   }],
   
@@ -205,57 +205,5 @@
     "id": 10,
     "full_name": "Artur Hemphrey",
     "birth_date": "7/20/1957"
-  }],
-  
-  "news": [{
-    "id": 1,
-    "title": "vulputate ut ultrices vel",
-    "body": "turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum",
-    "image": "http://dummyimage.com/150x163.jpg/cc0000/ffffff"
-  }, {
-    "id": 2,
-    "title": "sodales",
-    "body": "rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio",
-    "image": "http://dummyimage.com/126x139.jpg/dddddd/000000"
-  }, {
-    "id": 3,
-    "title": "orci luctus et",
-    "body": "dolor sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius",
-    "image": "http://dummyimage.com/246x225.bmp/dddddd/000000"
-  }, {
-    "id": 4,
-    "title": "platea dictumst",
-    "body": "convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo",
-    "image": "http://dummyimage.com/239x116.png/ff4444/ffffff"
-  }, {
-    "id": 5,
-    "title": "vitae consectetuer eget",
-    "body": "pede justo eu massa donec dapibus duis at velit eu est congue",
-    "image": "http://dummyimage.com/167x174.png/5fa2dd/ffffff"
-  }, {
-    "id": 6,
-    "title": "ut",
-    "body": "metus aenean fermentum donec ut mauris eget massa tempor convallis nulla",
-    "image": "http://dummyimage.com/220x185.jpg/5fa2dd/ffffff"
-  }, {
-    "id": 7,
-    "title": "natoque penatibus et",
-    "body": "sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam",
-    "image": "http://dummyimage.com/112x245.bmp/5fa2dd/ffffff"
-  }, {
-    "id": 8,
-    "title": "magna vulputate luctus",
-    "body": "ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet",
-    "image": "http://dummyimage.com/145x211.png/dddddd/000000"
-  }, {
-    "id": 9,
-    "title": "vitae ipsum aliquam non",
-    "body": "turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue",
-    "image": "http://dummyimage.com/179x151.jpg/cc0000/ffffff"
-  }, {
-    "id": 10,
-    "title": "vulputate",
-    "body": "est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in",
-    "image": "http://dummyimage.com/116x203.jpg/dddddd/000000"
-  }] 
+  }]
 }
