@@ -1,361 +1,166 @@
 { 
-  "users": [{
-    "id": 1,
-    "full_name": "Chloris Bunson",
-    "email": "cbunson0@51.la",
-    "password": "aBE6LWuW8O"
-  }, {
-    "id": 2,
-    "full_name": "Osbourn Sweetzer",
-    "email": "osweetzer1@bloglines.com",
-    "password": "QziKOMkVYL1"
-  }, {
-    "id": 3,
-    "full_name": "Elvin Jowitt",
-    "email": "ejowitt2@quantcast.com",
-    "password": "gk2Bf6r"
-  }, {
-    "id": 4,
-    "full_name": "Woodrow Raddan",
-    "email": "wraddan3@wikia.com",
-    "password": "ZNzjo5Zf"
-  }, {
-    "id": 5,
-    "full_name": "Aldin Campes",
-    "email": "acampes4@gnu.org",
-    "password": "FrrCnRG45Bs"
-  }, {
-    "id": 6,
-    "full_name": "Lorrin Leivesley",
-    "email": "lleivesley5@alibaba.com",
-    "password": "nfHgGc"
-  }, {
-    "id": 7,
-    "full_name": "Hadlee Nern",
-    "email": "hnern6@dagondesign.com",
-    "password": "1rnIuHi"
-  }, {
-    "id": 8,
-    "full_name": "Layney Scrivner",
-    "email": "lscrivner7@symantec.com",
-    "password": "wtxmEe2nZ"
-  }, {
-    "id": 9,
-    "full_name": "Sancho Elmore",
-    "email": "selmore8@disqus.com",
-    "password": "qo31CGQPk86"
-  }, {
-    "id": 10,
-    "full_name": "Sosanna Fynan",
-    "email": "sfynan9@admin.ch",
-    "password": "2EtM3x"
-  }],
+  "students": [{
+  "id": 1,
+  "first_name": "Katerina",
+  "last_name": "Novello",
+  "email": "knovello0@soundcloud.com",
+  "password": "HHSjiHq4"
+}, {
+  "id": 2,
+  "first_name": "Rani",
+  "last_name": "Rizzello",
+  "email": "rrizzello1@wordpress.org",
+  "password": "WCIYEs22"
+}, {
+  "id": 3,
+  "first_name": "Renaud",
+  "last_name": "Seifenmacher",
+  "email": "rseifenmacher2@cnbc.com",
+  "password": "Ji8oqNQ"
+}, {
+  "id": 4,
+  "first_name": "Reinaldos",
+  "last_name": "Pawelek",
+  "email": "rpawelek3@aboutads.info",
+  "password": "aOz23fd0V7"
+}, {
+  "id": 5,
+  "first_name": "Mable",
+  "last_name": "Treslove",
+  "email": "mtreslove4@joomla.org",
+  "password": "cpZyvTTjxF3"
+}, {
+  "id": 6,
+  "first_name": "Jourdain",
+  "last_name": "Rourke",
+  "email": "jrourke5@seesaa.net",
+  "password": "iZrxzDzU"
+}, {
+  "id": 7,
+  "first_name": "Dunstan",
+  "last_name": "Darko",
+  "email": "ddarko6@cocolog-nifty.com",
+  "password": "7gHPu6nZqY"
+}, {
+  "id": 8,
+  "first_name": "Meyer",
+  "last_name": "Streight",
+  "email": "mstreight7@google.com.hk",
+  "password": "5fsBBPrU6Z1"
+}, {
+  "id": 9,
+  "first_name": "Zandra",
+  "last_name": "Enion",
+  "email": "zenion8@sciencedaily.com",
+  "password": "ZyZjsnGPvaO"
+}, {
+  "id": 10,
+  "first_name": "Courtnay",
+  "last_name": "Lovering",
+  "email": "clovering9@eepurl.com",
+  "password": "GZ0A1NCpC"
+}],
   
-  "movies": [{
-    "id": 1,
-    "title": "The Disembodied",
-    "director_id": 9,
-    "genre_id": 10,
-    "year": 2010
-  }, {
-    "id": 2,
-    "title": "Bloody Angels (1732 Høtten: Marerittet har et postnummer)",
-    "director_id": 7,
-    "genre_id": 8,
-    "year": 2008
-  }, {
-    "id": 3,
-    "title": "Robin and the 7 Hoods",
-    "director_id": 2,
-    "genre_id": 8,
-    "year": 2011
-  }, {
-    "id": 4,
-    "title": "Maltese Falcon, The (a.k.a. Dangerous Female)",
-    "director_id": 6,
-    "genre_id": 7,
-    "year": 2010
-  }, {
-    "id": 5,
-    "title": "Antisocial",
-    "director_id": 9,
-    "genre_id": 3,
-    "year": 2002
-  }, {
-    "id": 6,
-    "title": "Meet Me in St. Louis",
-    "director_id": 5,
-    "genre_id": 9,
-    "year": 1992
-  }, {
-    "id": 7,
-    "title": "No More School",
-    "director_id": 2,
-    "genre_id": 3,
-    "year": 1993
-  }, {
-    "id": 8,
-    "title": "No Regrets for Our Youth (Waga seishun ni kuinashi)",
-    "director_id": 7,
-    "genre_id": 10,
-    "year": 2013
-  }, {
-    "id": 9,
-    "title": "Big Circus, The",
-    "director_id": 6,
-    "genre_id": 1,
-    "year": 2003
-  }, {
-    "id": 10,
-    "title": "Blue Velvet",
-    "director_id": 3,
-    "genre_id": 9,
-    "year": 2003
-  }, {
-    "id": 11,
-    "title": "Jewel of the Nile, The",
-    "director_id": 1,
-    "genre_id": 6,
-    "year": 2012
-  }, {
-    "id": 12,
-    "title": "What Lies Beneath",
-    "director_id": 4,
-    "genre_id": 1,
-    "year": 2007
-  }, {
-    "id": 13,
-    "title": "Madison Avenue",
-    "director_id": 10,
-    "genre_id": 1,
-    "year": 2005
-  }, {
-    "id": 14,
-    "title": "Fighting Spirit, The",
-    "director_id": 5,
-    "genre_id": 1,
-    "year": 2003
-  }, {
-    "id": 15,
-    "title": "Something Borrowed",
-    "director_id": 1,
-    "genre_id": 5,
-    "year": 2011
-  }, {
-    "id": 16,
-    "title": "Dante's Inferno",
-    "director_id": 1,
-    "genre_id": 10,
-    "year": 2012
-  }, {
-    "id": 17,
-    "title": "Beat That My Heart Skipped, The (battre mon coeur s'est arrêté, De)",
-    "director_id": 5,
-    "genre_id": 10,
-    "year": 1993
-  }, {
-    "id": 18,
-    "title": "Champ, The",
-    "director_id": 10,
-    "genre_id": 9,
-    "year": 2003
-  }, {
-    "id": 19,
-    "title": "Chillerama",
-    "director_id": 3,
-    "genre_id": 2,
-    "year": 2000
-  }, {
-    "id": 20,
-    "title": "Django Unchained",
-    "director_id": 8,
-    "genre_id": 6,
-    "year": 1995
-  }, {
-    "id": 21,
-    "title": "Stateside",
-    "director_id": 6,
-    "genre_id": 3,
-    "year": 2002
-  }, {
-    "id": 22,
-    "title": "Balloonatic, The",
-    "director_id": 2,
-    "genre_id": 8,
-    "year": 1985
-  }, {
-    "id": 23,
-    "title": "Fugly!",
-    "director_id": 10,
-    "genre_id": 9,
-    "year": 2010
-  }, {
-    "id": 24,
-    "title": "New Age, The",
-    "director_id": 6,
-    "genre_id": 7,
-    "year": 1999
-  }, {
-    "id": 25,
-    "title": "Pride of St. Louis, The",
-    "director_id": 4,
-    "genre_id": 3,
-    "year": 1987
-  }, {
-    "id": 26,
-    "title": "In My Country (a.k.a. Country of My Skull)",
-    "director_id": 5,
-    "genre_id": 8,
-    "year": 2002
-  }, {
-    "id": 27,
-    "title": "Hour of the Furnaces, The (Hora de los hornos, La)",
-    "director_id": 4,
-    "genre_id": 10,
-    "year": 1965
-  }, {
-    "id": 28,
-    "title": "Bones Brigade: An Autobiography",
-    "director_id": 8,
-    "genre_id": 5,
-    "year": 2009
-  }, {
-    "id": 29,
-    "title": "Jack Ryan: Shadow Recruit",
-    "director_id": 6,
-    "genre_id": 2,
-    "year": 2002
-  }, {
-    "id": 30,
-    "title": "(Absolutions) Pipilotti's Mistakes ((Entlastungen) Pipilottis Fehler)",
-    "director_id": 4,
-    "genre_id": 10,
-    "year": 1990
-  }],
-  
-  "reviews": [{
-    "id": 1,
-    "body": "cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus",
-    "movie_id": 8,
-    "user_id": 10
-  }, {
-    "id": 2,
-    "body": "pretium nisl ut volutpat sapien arcu sed augue aliquam erat",
-    "movie_id": 1,
-    "user_id": 1
-  }, {
-    "id": 3,
-    "body": "ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus",
-    "movie_id": 10,
-    "user_id": 5
-  }, {
-    "id": 4,
-    "body": "cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam",
-    "movie_id": 5,
-    "user_id": 6
-  }, {
-    "id": 5,
-    "body": "habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo",
-    "movie_id": 3,
-    "user_id": 2
-  }, {
-    "id": 6,
-    "body": "vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend",
-    "movie_id": 6,
-    "user_id": 7
-  }, {
-    "id": 7,
-    "body": "commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non",
-    "movie_id": 5,
-    "user_id": 3
-  }, {
-    "id": 8,
-    "body": "nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros",
-    "movie_id": 1,
-    "user_id": 4
-  }, {
-    "id": 9,
-    "body": "felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices",
-    "movie_id": 10,
-    "user_id": 10
-  }, {
-    "id": 10,
-    "body": "nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim",
-    "movie_id": 3,
-    "user_id": 1
-  }],
-  
-  "directors": [{
-    "id": 1,
-    "full_name": "Lynn Reddy",
-    "birth_date": "11/19/1992"
-  }, {
-    "id": 2,
-    "full_name": "Boyd Corbin",
-    "birth_date": "4/27/1969"
-  }, {
-    "id": 3,
-    "full_name": "Florella Biddlestone",
-    "birth_date": "1/13/1978"
-  }, {
-    "id": 4,
-    "full_name": "Floyd Daltrey",
-    "birth_date": "3/3/1982"
-  }, {
-    "id": 5,
-    "full_name": "Javier Smorthwaite",
-    "birth_date": "8/11/1981"
-  }, {
-    "id": 6,
-    "full_name": "Herbert Velte",
-    "birth_date": "12/5/1984"
-  }, {
-    "id": 7,
-    "full_name": "Gerda Fahy",
-    "birth_date": "9/6/1992"
-  }, {
-    "id": 8,
-    "full_name": "Timi Joddins",
-    "birth_date": "7/21/1952"
-  }, {
-    "id": 9,
-    "full_name": "Gabbie Ruller",
-    "birth_date": "11/24/1966"
-  }, {
-    "id": 10,
-    "full_name": "Artur Hemphrey",
-    "birth_date": "7/20/1957"
-  }],
-  
-  "genres": [{
-    "id": 1,
-    "genre": "Comedy"
-  }, {
-    "id": 2,
-    "genre": "Drama"
-  }, {
-    "id": 3,
-    "genre": "Action"
-  }, {
-    "id": 4,
-    "genre": "Crime"
-  }, {
-    "id": 5,
-    "genre": "Thriller"
-  }, {
-    "id": 6,
-    "genre": "Horror"
-  }, {
-    "id": 7,
-    "genre": "Art-house"
-  }, {
-    "id": 8,
-    "genre": "Romance"
-  }, {
-    "id": 9,
-    "genre": "Adventure"
-  }, {
-    "id": 10,
-    "genre": "War"
-  }]
+  "teachers":[{
+  "id": 1,
+  "first_name": "Raleigh",
+  "last_name": "Kurtis",
+  "email": "rkurtis0@zimbio.com",
+  "password": "t3l4FbpX",
+  "lesson": "maecenas"
+}, {
+  "id": 2,
+  "first_name": "Rebecca",
+  "last_name": "Castrillo",
+  "email": "rcastrillo1@lycos.com",
+  "password": "mqkftSLPduJ",
+  "lesson": "mattis"
+}, {
+  "id": 3,
+  "first_name": "Mendy",
+  "last_name": "Purches",
+  "email": "mpurches2@bing.com",
+  "password": "2dBBKD",
+  "lesson": "morbi"
+}, {
+  "id": 4,
+  "first_name": "Esta",
+  "last_name": "Duham",
+  "email": "eduham3@cyberchimps.com",
+  "password": "QIpu2A8R",
+  "lesson": "posuere"
+}, {
+  "id": 5,
+  "first_name": "Earl",
+  "last_name": "Entres",
+  "email": "eentres4@ucla.edu",
+  "password": "4g14sPfvh7c",
+  "lesson": "nunc"
+}, {
+  "id": 6,
+  "first_name": "Barris",
+  "last_name": "Hundey",
+  "email": "bhundey5@bloomberg.com",
+  "password": "lxCkyV3xx",
+  "lesson": "cum"
+}, {
+  "id": 7,
+  "first_name": "Ludwig",
+  "last_name": "Semrad",
+  "email": "lsemrad6@msu.edu",
+  "password": "CvKyB7",
+  "lesson": "rhoncus"
+}, {
+  "id": 8,
+  "first_name": "Davina",
+  "last_name": "Balhatchet",
+  "email": "dbalhatchet7@angelfire.com",
+  "password": "KomPUBEM9R",
+  "lesson": "ac"
+}, {
+  "id": 9,
+  "first_name": "Barny",
+  "last_name": "Dono",
+  "email": "bdono8@jalbum.net",
+  "password": "XDmy60Yf7j",
+  "lesson": "malesuada"
+}, {
+  "id": 10,
+  "first_name": "Issi",
+  "last_name": "Leatherbarrow",
+  "email": "ileatherbarrow9@topsy.com",
+  "password": "x0pDFmpsismG",
+  "lesson": "pede"
+}],
+  "books":[{
+  "id": 1,
+  "name": "curabitur gravida nisi"
+}, {
+  "id": 2,
+  "name": "id mauris"
+}, {
+  "id": 3,
+  "name": "mauris"
+}, {
+  "id": 4,
+  "name": "nulla"
+}, {
+  "id": 5,
+  "name": "dolor quis odio"
+}, {
+  "id": 6,
+  "name": "quis turpis"
+}, {
+  "id": 7,
+  "name": "sapien"
+}, {
+  "id": 8,
+  "name": "euismod"
+}, {
+  "id": 9,
+  "name": "turpis"
+}, {
+  "id": 10,
+  "name": "magna at nunc"
+}]
 }
